@@ -22,7 +22,7 @@ pipeline {
             steps {
                 script {
                     git branch: 'master',
-                        url: 'https://github.com/diegoantoni/infra-agil-exe01.git'
+                        url: 'https://github.com/paulonill/exemplo-spring-mvc-thymeleaf.git'
                 }
             }
         }
